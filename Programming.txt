@@ -5,4 +5,11 @@ we have to learn these things
 Web Technologies
 3. Java Script
 4. Python
+.js
+1. AngularJS
+2. Node.js
 Done with all
+This is final.
+Thanks
+
+
