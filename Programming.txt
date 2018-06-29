@@ -4,3 +4,4 @@ we have to learn these things
 2. Advance Java
 Web Technologies
 3. Java Script
+4. Python
