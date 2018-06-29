@@ -2,3 +2,5 @@ Welcome to Programming World
 we have to learn these things
 1. Core Java
 2. Advance Java
+Web Technologies
+3. Java Script
